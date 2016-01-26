@@ -1,0 +1,12 @@
+body {
+  color: #333333;
+  background-color: #ffffff;
+}
+
+#container {
+  max-width: 30em;
+  margin: 0 auto;
+  padding-top: 64px 0;
+  font-family: "AdobeGaramondProRegular","Georgia","Times New Roman", "bitstream vera serif", Times, serif;
+  font-size: 20px;
+}
